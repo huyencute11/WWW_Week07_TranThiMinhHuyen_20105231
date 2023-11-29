@@ -45,15 +45,15 @@ Administrative Dashboard: Tailored for administrators, this feature empowers the
     ![createaaaxjobss.png](/public/27.png)
 6. At the administration homepage, there will be statistics regarding the sales productivity of employees and the company's growth rate over time.
 - Statistics of total revenue of each employee
-    ![Alt text](/public/28_1.jpeg)
+    ![Alt text](public/28_1.png)
 - Statistics for the highest-selling products in terms of revenue
     ![Alt text](public/28_2.png)
 - Company growth statistics chart by time
 ![Alt text](public/28_3.png)
 - Product statistics chart over time period
- ![Alt text](/public/28_4.jpeg)
+![Alt text](public/28_4.png)
 - Order statistics chart for each employees
-    ![Alt text](/public/28_5.jpeg)
+![    !\[Alt text\](/public/28_5.jpeg)](public/28_5.png)
 7. Here, administrators also have the authority to add, view, delete, and modify employees, with these privileges exclusively granted to administrators.
     ![xxwdwxsa.png](/public/29.png)
     ![creaxsaxtejobsqwa.png](/public/30.png)
