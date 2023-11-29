@@ -8,7 +8,8 @@ This website serves as a comprehensive platform for both sales and inventory man
 E-commerce Interface: Customers can effortlessly navigate the sales website, peruse available products, and seamlessly place orders based on their preferences.
 
 Administrative Dashboard: Tailored for administrators, this feature empowers them to create and manage administrative accounts for their team. The dashboard facilitates meticulous control over the sales website, allowing administrators to execute vital functions such as product inventory management, customer relations oversight, order approval, and performance evaluation. Administrators can gain insights into employee productivity, identify high-performing staff, and monitor the company's sales growth trajectory.
-# API
+# Database diagram
+![Alt text](public/db_diagram.png)
 # UI
 1. The administrator logs into the system.
     ![homepage.png](/public/1.png)
